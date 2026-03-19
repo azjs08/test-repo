@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-hi
+<<<<<<< Updated upstream
+=======
+hi again
+>>>>>>> Stashed changes
 =======
 hi again
 >>>>>>> Stashed changes
